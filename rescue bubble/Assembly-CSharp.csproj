@@ -93,10 +93,10 @@
      <Compile Include="Assets\新垣完武\yosi_hide_Script\PlayerHP.cs" />
      <Compile Include="Assets\新垣完武\yosi_hide_Script\TimeScript.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>D:/GIT_Rescue_Bubble/rescue bubble/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/81906/Documents/-F-/rescue bubble/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>D:/GIT_Rescue_Bubble/rescue bubble/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/81906/Documents/-F-/rescue bubble/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/Unity2018_1_6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
